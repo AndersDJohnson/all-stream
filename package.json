@@ -1,0 +1,22 @@
+{
+  "name": "all-stream",
+  "version": "0.1.0",
+  "description": "Consume entire stream via buffer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AndersDJohnson/all-stream.git"
+  },
+  "keywords": [
+    "stream"
+  ],
+  "author": "Anders D. Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndersDJohnson/all-stream/issues"
+  },
+  "homepage": "https://github.com/AndersDJohnson/all-stream"
+}
