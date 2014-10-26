@@ -1,6 +1,8 @@
 all-stream
 ==========
 
+**DEPRECATED: Use [concat-stream].**
+
 Consume entire stream via buffer.
 
 ## Install
@@ -20,3 +22,4 @@ allStream(stream, function (err, data) {
 });
 ```
 
+[concat-stream]: https://www.npmjs.org/package/concat-stream
