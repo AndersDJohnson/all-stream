@@ -1,6 +1,6 @@
 {
   "name": "all-stream",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Consume entire stream via buffer.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "stream"
   ],
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AndersDJohnson/all-stream/issues"
